@@ -1,5 +1,5 @@
 # KML/KMZ to Excel Converter
-This tool was specifically built for a real-world use case—to help my father convert KML/KMZ geospatial data into Excel format for his professional needs.  
+This tool was specifically built for a real world use case (to help my father convert KML/KMZ geospatial data into Excel format for his professional needs). 
 It is **not a fully generalized tool**, but rather tailored for structured files that follow a specific format (e.g., consistent placemark structure, naming, etc.).
 
 ⚠️ **Note**: If you're using this for other KML/KMZ files, results may vary based on the structure of your input files.
