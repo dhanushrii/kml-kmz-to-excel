@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Excel Output
+*.xlsx
